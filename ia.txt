@@ -1,0 +1,3 @@
+ Modifica App.jsx para importar y mostrar en consola el array de figuritas ( console.log )
+
+ 
